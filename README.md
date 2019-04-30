@@ -1,2 +1,2 @@
-# Predictive-modeling-exercises
+# Predictive-modelling-exercises
 Learn how to build a predictive model 
